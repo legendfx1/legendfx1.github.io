@@ -283,19 +283,6 @@
   bottom: 0;
 }
 
-.categoryFadeBlurple-1j72_A {
-	background-color: rgba(0,138,230,.8)!important
-}
-
-.categoryFadeBlurple-1j72_A:hover {
-	background-color: rgba(0,138,230,.9)!important
-}
-
-.lookGhost-2Fn_0-.colorBrand-3pXr91 {
-	color: var(--primary);
-	background-color: rgba(0,138,230,.15)
-}
-
 .colorMuted-HdFt4q.size12-3cLvbJ:first-child:before {
   content: "Proxied v1.0 by Arch#1000 and LegendiFX#1658";
   display: block;

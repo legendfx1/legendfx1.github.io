@@ -164,21 +164,6 @@
   border-color: var(--message-embed);
 }
 
-.wordmarkWindows-1v0lYD {
-  margin-top: 2px;
-  padding-left: 6px;
-}
-.wordmarkWindows-1v0lYD svg {
-  -webkit-mask: url("https://logo-logos.com/wp-content/uploads/2018/03/Logo-Wordmark-discord.png") center/cover no-repeat;
-  background: var(--text-1);
-  opacity: 0.5;
-  height: 10px !important;
-  width: 88px !important;
-}
-.wordmarkWindows-1v0lYD svg path {
-  display: none;
-}
-
 #app-mount {
   background: var(--background-2);
 }

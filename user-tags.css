@@ -118,9 +118,9 @@
 
 
   /* on hover */
-.avatar-1BDn8e[src*="194830015353847817"]:hover + h2::after {
-  content: 'Cheesus';
-  --main-color: #51007a;
+.avatar-1BDn8e[src*="441309912308645889"]:hover + h2::after {
+  content: 'Designer';
+  --main-color: #0088ff;
 }
 
 .avatar-1BDn8e[src*="172045670008487936"]:hover + h2::after {

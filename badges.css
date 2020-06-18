@@ -69,9 +69,9 @@
 
   /*==|CUSTOM BADGES|==*/
     /*LegendiFX*/
-    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
+    .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
-    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy:hover::after {
       content: "Designer";
       background-image: url('https://media3.giphy.com/media/TK4aDaZrcPvFKnn7cE/giphy.gif') !important;
       background-position: center;

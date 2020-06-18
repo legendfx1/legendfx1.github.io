@@ -42,9 +42,9 @@
 
 
   /*==| MODS |==*/
-    /*cruxie*/
+    /*arch*/
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
+      background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy:hover::after {
       content: "Owner";
       animation: fadeIn .5s linear 1;
@@ -55,18 +55,18 @@
 			background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
     }
     /*discordchan*/
-    .avatar-1BDn8e[src*="706169896228225080"] + h2 > .username-1A8OIy::after {content: "";
+    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
-    .avatar-1BDn8e[src*="706169896228225080"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
       content: "Will probably ban you";
       color: #4ce949;
     }
 
   /*==|CUSTOM BADGES|==*/
-    /* Spectra */
-    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
+    /*LegendiFX*/
+    .avatar-1BDn8e[src*="706169896228225080"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
-    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="706169896228225080"] + h2 > .username-1A8OIy:hover::after {
       content: "Theme Designer";
       background-image: linear-gradient(30deg, #5433FF, #20BDFF) !important;
       background-position: center;

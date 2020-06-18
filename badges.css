@@ -76,15 +76,6 @@
       animation: fadeIn .2s linear 1;
       letter-spacing: 1px;
     }
-    /* Also Spectra */
-    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
-    .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
-      content: "Theme Designer";
-      background-color: #990000;
-      color: #fff;
-      animation: scaleIn .2s linear 1;
-    }
     /* yura */
     .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/706165692608806933/708809414437634089/YinYangCats.gif');}

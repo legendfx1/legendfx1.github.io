@@ -49,7 +49,7 @@
       content: "Owner";
       animation: fadeIn .4s linear 1;
 			color: #0000FF;
-			width: 60px;
+			width: 40px;
 			text-align: center;
 			background-color: transparent;
 			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723278397215866950/2.gif') !important;
@@ -61,13 +61,13 @@
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
       content: "Theme Designer";
-      background-image: linear-gradient(30deg, #5433FF, #20BDFF) !important;
+      background-image: url('https://i.gifer.com/2ii5.gif') !important;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
       color: #fff;
       animation: fadeIn .4s linear 1;
-      letter-spacing: 1px;
+      letter-spacing: 0px;
     }
     /* yura */
     .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy::after {content: "";

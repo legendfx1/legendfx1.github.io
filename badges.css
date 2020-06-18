@@ -47,9 +47,9 @@
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy:hover::after {
       content: "Owner";
-      animation: fadeIn .5s linear 1;
+      animation: fadeIn .4s linear 1;
 			color: #0000FF;
-			width: 75px;
+			width: 60px;
 			text-align: center;
 			background-color: transparent;
 			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723278397215866950/2.gif') !important;
@@ -58,7 +58,7 @@
   /*==|CUSTOM BADGES|==*/
     /*LegendiFX*/
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://media0.giphy.com/media/TEscUstbAdaSc/source.gif');}
+      background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
       content: "Theme Designer";
       background-image: linear-gradient(30deg, #5433FF, #20BDFF) !important;
@@ -66,7 +66,7 @@
       background-size: cover;
       background-repeat: no-repeat;
       color: #fff;
-      animation: fadeIn .5s linear 1;
+      animation: fadeIn .4s linear 1;
       letter-spacing: 1px;
     }
     /* yura */

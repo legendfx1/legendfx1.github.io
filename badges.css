@@ -43,6 +43,10 @@
 
   /*==| Staff |==*/
     /*arch*/
+	.avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy {content: "";
+      background-image: url('https://media.discordapp.net/attachments/716761472717553664/717762332792455178/sparkle_red.gif');
+	  text-shadow: 0px 0px 2px #ff0000;
+	  background-size: cover;}
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy:hover::after {
@@ -55,6 +59,10 @@
 			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723278397215866950/2.gif') !important;
     }
     /*mustafa*/
+	.avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy {content: "";
+      background-image: url('https://media.discordapp.net/attachments/718558397481615462/719045444671635456/sparkle_red.gif');
+	  text-shadow: 0px 0px 2px #ff0000;
+	  background-size: cover;}
     .avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy:hover::after {
@@ -69,6 +77,10 @@
 
   /*==|CUSTOM BADGES|==*/
     /*LegendiFX*/
+	.avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy {content: "";
+	  background-image: url('https://media.discordapp.net/attachments/718558397481615462/719045444671635456/sparkle_red.gif');
+	  text-shadow: 0px 0px 2px #ff0000;
+	  background-size: cover;}
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
@@ -80,9 +92,6 @@
       color: #fff;
       animation: fadeIn .4s linear 1;
       letter-spacing: 0px;
-    }
-    .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy {content: "";
-      background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     }
     /* yura */
     .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy::after {content: "";

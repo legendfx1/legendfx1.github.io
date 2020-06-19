@@ -44,54 +44,47 @@
   /*==| Staff |==*/
     /*arch*/
 	.avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy {content: "";
-      background-image: url('https://media.discordapp.net/attachments/716761472717553664/717762332792455178/sparkle_red.gif');
-	  text-shadow: 0px 0px 2px #ff0000;
-	  background-size: cover;}
+      background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723478849475837972/10.gif');
+	  text-shadow: 0px 0px 2px #0000FF;}
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="718090646883270678"] + h2 > .username-1A8OIy:hover::after {
       content: "Owner";
       animation: fadeIn .4s linear 1;
 			color: #0088FF;
-			width: 40px;
 			text-align: center;
-			background-color: transparent;
-			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723278397215866950/2.gif') !important;
+			background-color: #1b1e23;
+			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723290412131024906/animated_space_wallpaper_gif_memestrendingspace.gif') !important;
     }
     /*mustafa*/
 	.avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy {content: "";
-      background-image: url('https://media.discordapp.net/attachments/718558397481615462/719045444671635456/sparkle_red.gif');
-	  text-shadow: 0px 0px 2px #ff0000;
-	  background-size: cover;}
+      background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723478834305040384/7.gif');
+	  text-shadow: 0px 0px 2px #f37eb2;}
     .avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy:hover::after {
       content: "Developer";
       animation: fadeIn .4s linear 1;
 			color: #f37eb2;
-			width: 65px;
 			text-align: center;
-			background-color: transparent;
-			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723278397215866950/2.gif') !important;
+			background-color: #1b1e23;
+			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723290412131024906/animated_space_wallpaper_gif_memestrendingspace.gif') !important;
     }
 
   /*==|CUSTOM BADGES|==*/
     /*LegendiFX*/
 	.avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy {content: "";
-	  background-image: url('https://media.discordapp.net/attachments/718558397481615462/719045444671635456/sparkle_red.gif');
-	  text-shadow: 0px 0px 2px #ff0000;
-	  background-size: cover;}
+	  background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723483608689541170/15.gif');
+	  text-shadow: 0px 0px 2px #00ff3b;}
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
     .avatar-1BDn8e[src*="441309912308645889"] + h2 > .username-1A8OIy:hover::after {
       content: "Designer";
-      background-image: url('https://media3.giphy.com/media/TK4aDaZrcPvFKnn7cE/giphy.gif') !important;
-      background-position: center;
-      background-size: cover;
-      background-repeat: no-repeat;
-      color: #fff;
       animation: fadeIn .4s linear 1;
-      letter-spacing: 0px;
+			color: #fff;
+			text-align: center;
+			background-color: #1b1e23;
+			background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723290412131024906/animated_space_wallpaper_gif_memestrendingspace.gif') !important;
     }
     /* yura */
     .avatar-1BDn8e[src*="517447785491070987"] + h2 > .username-1A8OIy::after {content: "";

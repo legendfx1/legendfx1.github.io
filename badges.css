@@ -56,13 +56,41 @@
 			background-color: #1b1e23;
 			background-size: 44;
     }
-    /*mustafa*/
-	.avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy {content: "";
+    /*wivio*/
+	.avatar-1BDn8e[src*="206529599386025985"] + h2 > .username-1A8OIy {content: "";
+      background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723478849475837972/10.gif');
+	  text-shadow: 0px 0px 2px #0000FF;}
+    .avatar-1BDn8e[src*="206529599386025985"] + h2 > .username-1A8OIy::after {content: "";
+      background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
+    .avatar-1BDn8e[src*="206529599386025985"] + h2 > .username-1A8OIy:hover::after {
+      content: "Owner";
+      animation: fadeIn .4s linear 1;
+			color: #0088FF;
+			text-align: center;
+			background-color: #1b1e23;
+			background-size: 44;
+    }
+    /*halogen*/
+	.avatar-1BDn8e[src*="349162678725640202"] + h2 > .username-1A8OIy {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723478834305040384/7.gif');
 	  text-shadow: 0px 0px 2px #f37eb2;}
-    .avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy::after {content: "";
+    .avatar-1BDn8e[src*="349162678725640202"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
-    .avatar-1BDn8e[src*="360475328898138115"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="349162678725640202"] + h2 > .username-1A8OIy:hover::after {
+      content: "Developer";
+      animation: fadeIn .4s linear 1;
+			color: #f37eb2;
+			text-align: center;
+			background-color: #1b1e23;
+			background-size: 63;
+    }
+    /*snekROmonoro*/
+	.avatar-1BDn8e[src*="503531451443314690"] + h2 > .username-1A8OIy {content: "";
+      background-image: url('https://cdn.discordapp.com/attachments/492474173978050587/723478834305040384/7.gif');
+	  text-shadow: 0px 0px 2px #f37eb2;}
+    .avatar-1BDn8e[src*="503531451443314690"] + h2 > .username-1A8OIy::after {content: "";
+      background-image: url('https://cdn.discordapp.com/attachments/720515673306038313/720534537142272020/4zoom_out.png');}
+    .avatar-1BDn8e[src*="503531451443314690"] + h2 > .username-1A8OIy:hover::after {
       content: "Developer";
       animation: fadeIn .4s linear 1;
 			color: #f37eb2;
